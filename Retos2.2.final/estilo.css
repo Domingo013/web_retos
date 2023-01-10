@@ -1,0 +1,44 @@
+body{
+	background-color: #EAEDED;
+}
+
+div#contenedor1, #contenedor2, #contenedor3{
+	background-color: #A3E4D7;
+	margin: 0 auto;
+	padding: 10px 15px;
+	text-align: center;
+	box-shadow: 10px 10px 20px black;
+}
+
+div#contenedor1{
+	margin-top: 20px;
+	width: 400px;
+	height: auto;
+}
+
+div#contenedor2{
+	margin-top: 20px;
+	width: 250px;
+	height: auto;
+}
+
+div#contenedor3{
+	margin-top: 20px;
+	width: 1100px;
+	height: auto;
+}
+
+div#contenedor1 input[type="submit"]{
+	margin: 20px 0 10px;
+	font-weight: bold;
+}
+
+div#contenedor2 table{
+	margin: 0 auto;
+	text-align: center;
+}
+
+div#contenedor3 table{
+	margin: 0 auto;
+	text-align: center;
+}
